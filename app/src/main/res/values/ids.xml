@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text1" type="id">text1</item>
+    <item name="text3" type="id">text3</item>
+    <item name="button5" type="id">button5</item>
+    <item name="text2" type="id">text2</item>
+    <item name="container" type="id">container</item>
+    <item name="res1" type="id">res1</item>
+    <item name="res2" type="id">res2</item>
+    <item name="res3" type="id">res3</item>
+</resources>
